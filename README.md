@@ -1,6 +1,7 @@
 # Steel Production Cost Prediction Model
 This project estimates the **cost of producing steel per ton (in USD)** by analyzing the relationship between raw material usage and total production cost. The primary objective is to predict the **conversion cost**, which is not directly dependent on raw material inputs but inferred using machine learning.
 
+**I have built this project using realtime data from ERP Systems as a part of my job at Jindal. Hence the dataset is not shared.**
 ---
 
 ## 📌 Project Description
