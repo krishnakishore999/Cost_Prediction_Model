@@ -62,7 +62,7 @@ This model aims to accurately estimate the **conversion cost** using historical 
 
 The final model (XgBoost) performance on the test set:
 
-- **R-squared (R2)**: 0.88
+- **R-squared (R2)**: 0.92
 
 > These results show a strong predictive power, helping optimize operational decisions and control conversion cost more effectively.
 
